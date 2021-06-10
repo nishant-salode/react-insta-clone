@@ -1,0 +1,25 @@
+.stories__strip{
+    margin-top: 86px;
+    margin-left: 16vw;
+    margin-right: 40vw;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 0 5px;
+    background: white;
+    border: 1px solid lightgray;
+    overflow-x: hidden;
+}
+.stories__profile{
+    margin: 18px 10px;
+    background: white;
+}
+.stories__profile > .MuiAvatar-root.MuiAvatar-circle{
+    width: 56px !important;
+    height: 56px !important;
+}
+.stories__username{
+    background: inherit;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 8px;
+}
