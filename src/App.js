@@ -23,10 +23,7 @@ function App() {
       {/*Stories */}
       <Stories username="jio.joe" imageUrl="https://images.unsplash.com/photo-1622209680130-7b2036d373a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80"/>
       {/* Post */}
-      <Post username="Nishant Salode" caption="Wakey wakey early mornings." imageUrl=""/>
-      <Post username="Tanmay Bhatt" caption="Late night quotes." imageUrl=""/>
-      <Post username="Mike Posner" caption="Green Green Green." imageUrl=""/>
-      <Post username="Bruce Lington" caption="charging phone mobile tab using potato." imageUrl=""/>
+      {/* <Post username="Nishant Salode" caption="Wakey wakey early mornings." imageUrl=""/> */}
       <Post/>
       {/* Posts */}
       
